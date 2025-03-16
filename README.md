@@ -31,7 +31,7 @@ Hello again 👋
 + An overall model accuracy of `0.9956`
 + An overall `roc_auc_score` of `1.00`
 
-> The saved model's `state_dict` can be found in the drive folder linked [here](https://drive.google.com/drive/folders/1FjC2wCK9UzDOBA0qBgNVunUxLVhqsb3l?usp=drive_link)
+> The saved model's `state_dict` can be found in the drive folder linked [here](https://drive.google.com/drive/folders/1gWNM3EXADR0__wuUyzAipIg7vu47aEh3?usp=drive_link)
 
 
 ## Reference 📚
