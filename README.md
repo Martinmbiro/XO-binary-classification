@@ -8,6 +8,7 @@ Hello again 👋
 + [Modular programming]() is a software design technique where the code is broken down into smaller independent pieces called _modules_ that handle specific functions. This promotes reusability, maintainability, and cleaner code.
 + In this repository, I solve an end-to-end binary image classification problem on `X` & `O` image classes from the [`EMNIST`](https://pytorch.org/vision/main/generated/torchvision.datasets.EMNIST.html) dataset, while implementing modular programming. The training dataset consists of `9,600` images, while the test dataset consists of `1,600` images - all grayscale, with `28` pixels in height and width.
 + The model architecture used for this exercise is a tweaked version of the [TinyVGG model](https://www.youtube.com/watch?v=HnWIHWFbuUQ), that I'd built in a previous repository - [Pytorch computer vision basics](https://github.com/Martinmbiro/Pytorch-computer-vision-basics)
++ The first notebook, `01. XO modular.ipynb` entails turning reusable code into modules, while the second notebook, `02. XO end to end.ipynb` is where I put everything together.
 + Comments, working code, and links to the latest official documentation are included every step of the way. There's links to open each notebook (_labeled 01...02_) in Google Colab - feel free to play around with the code.
 
 ## Milestones 🏁
